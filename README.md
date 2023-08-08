@@ -5,7 +5,7 @@
        # #     #  #    
  #     # #######  #    Just Another (DLL) Injector
  #     # #     #  #    Made by Balzabu
-  #####  #     # ###   https://github.com/Balzabu)
+  #####  #     # ###   https://github.com/Balzabu
 ```
 ![C++](https://img.shields.io/badge/Made_with-C++-blue)[![Follow](https://img.shields.io/badge/Follow_me-github-black?logo=github)](https://github.com/balzabu/)
 
